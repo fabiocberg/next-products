@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95240316218",
+    "project_id": "nextar-test-proj",
+    "storage_bucket": "nextar-test-proj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95240316218:android:be4bec31acde00be2d5c03",
+        "android_client_info": {
+          "package_name": "com.example.nextar_products"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLRbeantIIAW78NpoMthLWLxuob2r6VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,72 @@
+# Flutter/Dart/Pub specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+build/
+*.apk
+*.aab
+*.ipa
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/ServiceDefinitions.json
+ios/Podfile.lock
+Pods/
+.generated/
+.DS_Store
+
+# Android
+.android/
+android/local.properties
+android/key.properties
+*.jks
+
+# Web
+web/.dart_tool/
+web/manifest.json
+web/firebase-config.js
+web/.firebase/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Flutter/Generated.xcconfig
+macos/Pods/
+macos/Podfile.lock
+
+# Windows
+windows/flutter/ephemeral/
+windows/flutter/GeneratedPluginRegistrant.*
+
+# Linux
+linux/flutter/ephemeral/
+linux/flutter/GeneratedPluginRegistrant.*
+
+# Firebase specific
+.firebase/
+*.firebaserc
+*.firebase/
+
+# IntelliJ IDE-specific
+*.ipr
+*.iws
+*.idea/
+
+# Logs
+*.log
+pubspec.lock
+pubspec_overrides.yaml
