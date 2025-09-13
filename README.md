@@ -1,4 +1,4 @@
-# Nextar Products
+# Next Products
 
 Flutter app de representação de cadastro de produtos. Nesse exemplo é possível adicionat, editar e remover itens da lista de produtos.
 
